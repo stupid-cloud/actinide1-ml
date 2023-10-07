@@ -21,7 +21,7 @@ This package requires:
 
 - [pymatgen](http://pymatgen.org)
 
-- [qin-plot]((https://pypi.org/project/qin-plot/) )
+- [qin-plot](https://pypi.org/project/qin-plot/) 
 
   
 
