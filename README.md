@@ -1,4 +1,4 @@
-# Prediction of thermodynamic stability of actinide compounds by machine learning model 
+# [Prediction of thermodynamic stability of actinide compounds by machine learning model](https://doi.org/10.1016/j.ceramint.2023.10.215)
 
 This software package implements the random forest and neural network  to predict thermodynamic phase stability of actinide compounds . 
 
@@ -6,8 +6,6 @@ The package provides two major functions:
 
 - Train  random forest and neural network model (training.ipynb).
 - Predict  the convex hulls  of new compositions with a pre-trained machine learning model (prediction.ipynb).
-
-
 
 ##  Prerequisites
 
@@ -23,13 +21,9 @@ This package requires:
 
 - [qin-plot](https://pypi.org/project/qin-plot/) 
 
-  
-
 ## Authors
 
 This software was primarily written by Chenglong Qin (clqin@foxmail.com).
-
-
 
 ## License
 
